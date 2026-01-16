@@ -1,6 +1,7 @@
 ﻿data/
 merged_data/
 cleaned_data/
+final_data/
 .venv/
 __pycache__/
 .ipynb_checkpoints/
